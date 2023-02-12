@@ -1,0 +1,25 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #fff89c;
+}
+
+.profile {
+  background: url('img/profile.jpeg');
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+}
+#gallery {
+  background-color: #fff89c;
+}
+
+#contact {
+  background-color: #ffffff;
+}
+footer {
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+}
